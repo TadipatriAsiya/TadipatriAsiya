@@ -7,6 +7,7 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 • Java Technologies :Core Java, JDBC, Servlets
 
 
+
 ## Contact
 Feel free to connect with me on:
 www.linkedin.com/in/asiya-tadipatri-059b12228
