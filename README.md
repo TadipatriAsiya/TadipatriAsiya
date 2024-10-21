@@ -13,8 +13,7 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 
 ## Contact
 Feel free to connect with me on:
-
--[LinkedIn](https://www.linkedin.com/in/asiya-tadipatri-059b12228)
+- [LinkedIn](https://www.linkedin.com/in/asiya-tadipatri-059b12228)
 - [Github]
   
 
