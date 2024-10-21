@@ -6,10 +6,10 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 • Java Technologies :Core Java, JDBC, Servlets
 
  Web Technologies: HTML, CSS, JavaScript 
-• Frameworks : Spring Boot,Hibernate 
-• Database: MySQL
-• Operating Systems : Unix/Linux, Windows
-• Version Control : Git , GitHub
+ Frameworks : Spring Boot,Hibernate 
+ Database: MySQL
+ Operating Systems : Unix/Linux, Windows
+ Version Control : Git , GitHub
 
 
 
