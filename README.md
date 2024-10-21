@@ -4,7 +4,7 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 ## Skills
 
 • Programming languages : Java,SQl
-
+• Java Technologies :Core Java, JDBC, Servlets
 
 
 ## Contact
