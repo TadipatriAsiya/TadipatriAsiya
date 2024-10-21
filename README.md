@@ -9,18 +9,13 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 - Blockchain: Web3, DApps
 - Version Control: Git, GitHub
 
-## Projects Highlights
-- [NFT Minting Website]([link](https://github.com/DeelanLasrado/NFT-minting-and-purchasing-website))
-- [Decentralized Banking System (DBank)]([link](https://github.com/DeelanLasrado/DBANK))
-- [React Keeper App]([link](https://github.com/DeelanLasrado/DKeeper-React-Motoko-))
-- [Image Classification using CNN]([link](https://github.com/DeelanLasrado/Image-Classification-Using-CNN))
-- [Mental Milestone]([link](https://github.com/DeelanLasrado/MentalMilestone)) - Comprehensive platform for mental health support
+
 
 ## Contact
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/deelanlasrado/)
-- [GitHub](https://github.com/DeelanLasrado)
-- deelanlasrado44@gmail.com
+- www.linkedin.com/in/asiya-tadipatri-059b12228
+- github
+- email
 
 Let's collaborate and innovate together!
 
@@ -28,8 +23,6 @@ Let's collaborate and innovate together!
 
 
 
-## Contact
-Feel free to connect with me on:
-www.linkedin.com/in/asiya-tadipatri-059b12228
+
 
 
