@@ -13,8 +13,8 @@ Hello! I'm Asiya Tadipatri, Highly motivated and certified Java Developer with a
 • Database: MySQL
 
 • Operating Systems : Unix/Linux, Windows
-
 • Version Control : Git , GitHub
+
 
 ## Contact
 Feel free to connect with me on:
